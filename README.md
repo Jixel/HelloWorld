@@ -1,7 +1,7 @@
 # HelloWorld
 ## Descripción
 
-> .[!NOTE].
+> **NOTE:**
 >   Message
 
 > .[!TIP].
