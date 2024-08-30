@@ -1,17 +1,17 @@
 # HelloWorld
 ## Descripción
 
-> **NOTE:**
+> [!NOTE]
 >   Message
 
-> .[!TIP].
+> [!TIP]
 >   Message
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 >   Message
 
-> .[!WARNING].
+> [!WARNING]
 >   Message
 
-> .[!CAUTION].
+> [!CAUTION]
 >   Message
